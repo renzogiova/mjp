@@ -13,10 +13,10 @@ MOVI WEB es la página web del Movimiento Juvenil Peregrinos. Crear interfaces c
 
 Los colores principales de MOVI WEB son:
 
-- Azul: `#2596be`.
-- Verde: `#69b145`.
+- Azul: `#0066b1`.
+- Verde: `#26a52f`.
 - Blanco: `#ffffff`.
-- Amarillo: `#eeec5b`.
+- Amarillo: `#fce432`.
 
 Usar estos colores como base de la identidad visual y centralizarlos en variables CSS o en los tokens de Tailwind CSS según la configuración del proyecto. Comprobar el contraste de texto, controles y estados de foco; no asumir que el texto blanco sobre estos colores cumple los requisitos de accesibilidad.
 
